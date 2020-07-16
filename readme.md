@@ -10,6 +10,9 @@
 <a href="https://t.me/theAnks">
   <img align="left" alt="Anks' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCAu8q6WQJMCRLQFtz1Ze3Ow">
+  <img align="left" alt="Anks' YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <!-- <a href="#">
   <img align="left" alt="Anks' Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
@@ -22,8 +25,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently converting ideas into working solutions;
-- 🎭 I have worked on various JS library/Framework like AngularJS, Angular, React;
+- 🎭 I'm currently converting ideas into working solutions;
+- 👨🏽‍💻 I have worked on various JS library/Framework like AngularJS, Angular, React;
 - 🌱 I'm currently learning GraphQL and VueJS;
 - 😇 I'm loving to play with Data Structures and Algorithms;
 - 🤔 I'm looking for great challenges to create awesomeness 😭;
