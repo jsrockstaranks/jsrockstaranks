@@ -1,19 +1,19 @@
 ## Hey 👋🏽, This is [Anks!](http://theanks.com/)
 
 <br/>
-<!-- <a href="#">
+<!-- <a href="#" target="_blank">
   <img align="left" alt="Anks' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/anks-innovator/">
+<a href="https://www.linkedin.com/in/anks-innovator/" target="_blank">
   <img align="left" alt="Anks' LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/theAnks">
+<a href="https://t.me/theAnks" target="_blank">
   <img align="left" alt="Anks' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCAu8q6WQJMCRLQFtz1Ze3Ow">
+<a href="https://www.youtube.com/channel/UCAu8q6WQJMCRLQFtz1Ze3Ow" target="_blank">
   <img align="left" alt="Anks' YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<!-- <a href="#">
+<!-- <a href="#" target="_blank">
   <img align="left" alt="Anks' Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
 
