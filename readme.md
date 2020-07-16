@@ -1,5 +1,4 @@
 ## Hey 👋🏽, This is [Anks!](http://theanks.com/)
-<!-- ## Hey 👋🏽, This is [Anks!] -->
 
 <br/>
 <!-- <a href="#">
@@ -17,7 +16,7 @@
 
 <br />
 
-### Hi, This is Ankit Srivastava, an Engineer 👨🏽‍💻 from India,
+### Hi! This is Anks, an Engineer 👨🏽‍💻 from India,
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
@@ -35,9 +34,9 @@
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
