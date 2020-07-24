@@ -13,6 +13,9 @@
 <a href="https://www.youtube.com/channel/UCAu8q6WQJMCRLQFtz1Ze3Ow" target="_blank">
   <img align="left" alt="Anks' YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCAu8q6WQJMCRLQFtz1Ze3Ow" target="_blank">
+  <img align="left" alt="Anks' Codewars" width="120px" src="https://www.codewars.com/users/JSRockStar/badges/micro" />
+</a>
 <!-- <a href="#" target="_blank">
   <img align="left" alt="Anks' Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
