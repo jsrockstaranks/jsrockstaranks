@@ -23,6 +23,7 @@
 <br />
 
 ### Hi! This is Anks, an Engineer 👨🏽‍💻 from India,
+Who thinks software engineering as an art and code is expression. It needs to have clarity, purpose, elegance and efficiency to communicate well, to execute well. As a result, he produces software of the highest quality, not only functional and tested, but highly readable for future maintainers.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
