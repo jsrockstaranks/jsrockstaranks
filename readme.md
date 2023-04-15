@@ -30,7 +30,7 @@ Who thinks software engineering as an art and code is expression. It needs to ha
 **Talking about Personal Stuffs:**
 
 - 🎭 I'm currently converting ideas into working solutions;
-- 👨🏽‍💻 I have worked on various JS library/Framework like AngularJS, Angular, React;
+- 👨🏽‍💻 I have worked on various JS library/Framework like AngularJS, Angular, React, NextJS;
 - 🌱 I'm currently learning GraphQL and VueJS;
 - 😇 I'm loving to play with Data Structures and Algorithms;
 - 🤔 I'm looking for great challenges to create awesomeness 😭;
